@@ -40,7 +40,7 @@ def open_links(queue: Queue) -> None:
 
 def within_price_limit(tweet_data_, price: float) -> bool:
     if tweet_data_.full_text.find("$") > 0:
-        price_parse = tweet_data_.full_text.split("$")[1]
+        price_parse = tweet_data_.full_text.split("$")[1].replace(",", "")
         for index, char in enumerate(price_parse):
             if not char.isnumeric():
                 price_parse = price_parse[0:index + 1]
