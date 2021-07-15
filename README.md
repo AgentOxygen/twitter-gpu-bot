@@ -33,6 +33,7 @@ I prefer to use Powershell on Windows which you can open by pressing shift and t
 Use `python ./bot.py` to activate the bot.
 
 ## Donations are Appreciated! 
+
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="business" value="YSVPF57ECUQ4Y" />
 <input type="hidden" name="no_recurring" value="0" />
@@ -42,3 +43,4 @@ Use `python ./bot.py` to activate the bot.
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
+[Link to Paypal if button is broken](https://www.paypal.com/donate?business=YSVPF57ECUQ4Y&no_recurring=0&item_name=Donations+to+my+coding+efforts&currency_code=USD)
