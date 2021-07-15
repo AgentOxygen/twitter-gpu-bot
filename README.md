@@ -44,6 +44,9 @@ price_exception_keywords = ["bestbuy", "amd.com"]
 To run the bot, open the terminal of your choice and navigate to the directory where **bot.py** is located. 
 I prefer to use Powershell on Windows which you can open by pressing shift and then right clicking in the white space of a File Explorer window.
 Use `python ./bot.py` to activate the bot. You do not need to be in the window for it to run, just check on it every so often to make sure it hasn't crashed or bugged out.
+- `latency` refers to the time between analyzing the tweet and when it was posted (this is a good measure of lag)
+
+![image](https://user-images.githubusercontent.com/13355009/125833831-b12072db-655a-4df4-abb6-006367715cb5.png)
 
 ## Donations are Appreciated! 
 
