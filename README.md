@@ -8,9 +8,18 @@ The goal of this script was to automate the following of in-stock trackers on Tw
 3. Open the URL linked in a tweet in the default browser if it fits the specified criteria
 
 ## Prerequisites
-1. You will need a [Twitter Developer account](https://developer.twitter.com/en) in order to use this script. 
+1. You will need a [Twitter Developer account](https://developer.twitter.com/en) in order to use this script (scraping can result in timeouts and bans so this is a safe and fast way to read Twitter without using something clunky like proxies). 
 You will have to submit an application, but if state exactly what you are going to do with it they should approve your application within 24 hours.
-For the scope of the developer application, this bot only reads the data stored in the latests tweets made by specific users.
+For the scope of the developer application, this bot only reads the data stored in the latests tweets made by specific users of your choosing.
+After your application is approved, go to the developer portal and paste the keys and tokens into the script so that it can use the API:
+~~~
+consumer_key = ""
+consumer_secret = ""
+bearer_token = ""
+
+access_token = ""
+access_token_secret = ""
+~~~
 2. [Python 3 or higher](https://www.python.org/downloads/) installed
 3. [Tweepy](https://docs.tweepy.org/en/stable/install.html) installed
 
