@@ -33,4 +33,4 @@ I prefer to use Powershell on Windows which you can open by pressing shift and t
 Use `python ./bot.py` to activate the bot.
 
 ## Donations are Appreciated! 
-Paypal(https://www.paypal.com/paypalme/theagentoxygen?locale.x=en_US)
+[Paypal](https://www.paypal.com/paypalme/theagentoxygen?locale.x=en_US)
