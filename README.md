@@ -32,4 +32,5 @@ To run the bot, open the terminal of your choice and navigate to the directory w
 I prefer to use Powershell on Windows which you can open by pressing shift and then right clicking in the white space of a File Explorer window.
 Use `python ./bot.py` to activate the bot.
 
-## [Donations are Appreciated!] (https://www.paypal.com/paypalme/theagentoxygen?locale.x=en_US)
+## Donations are Appreciated! 
+Paypal(https://www.paypal.com/paypalme/theagentoxygen?locale.x=en_US)
