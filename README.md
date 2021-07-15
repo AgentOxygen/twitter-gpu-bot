@@ -7,6 +7,10 @@ The goal of this script was to automate the following of in-stock trackers on Tw
 2. Analyze the text in new tweets to find URLs and price tags
 3. Open the URL linked in a tweet in the default browser if it fits the specified criteria
 
+This process does not involve the use of proxies or web-scraping. Everything is done through the use of an approved Twitter API connection.
+The only caveat is that since it relies on other bot's notifications you will never be the first to try to buy something, but in reality you almost never need to be *first*
+you just don't want to be *last +1*.
+
 ## Prerequisites
 1. You will need a [Twitter Developer account](https://developer.twitter.com/en) in order to use this script (scraping can result in timeouts and bans so this is a safe and fast way to read Twitter without using something clunky like proxies). 
 You will have to submit an application, but if state exactly what you are going to do with it they should approve your application within 24 hours.
